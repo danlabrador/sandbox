@@ -1,0 +1,3 @@
+[submodule "mini-addu-sis"]
+	path = mini-addu-sis
+	url = https://github.com/danlabrador/mini-addu-sis.git
